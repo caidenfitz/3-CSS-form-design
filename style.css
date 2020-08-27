@@ -1,0 +1,48 @@
+.column {
+  display: flex;
+  column-width: 100px;
+  flex-direction: column;
+  
+}
+.column div {
+  background-color: #689ecc;
+  width: 20%
+ 
+}
+label {
+  color: #ededed;
+}
+body {
+  background-color: #689ecc;
+}
+
+.container {
+  flex-direction: column;
+}
+textarea {
+  resize:none;
+}
+textarea {
+
+height: 100px;
+  
+}
+#country {
+  width: 100%
+}
+.container {
+  width: 20%
+}
+form {
+  display:flex;
+}
+.input-item{
+  display:flex;
+  flex-direction: column;
+  border-radius: 0px;
+  color: #689ecc;
+}
+  input, textarea, select {
+    background: transparent
+  }
+  
